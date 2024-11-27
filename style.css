@@ -1,6 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #fef9ef;
+    background-image: url('images/background.png'); /* Path to your background image */
+    background-size: cover;  /* Ensures the image covers the whole page */
+    background-position: center;  /* Centers the image */
+    background-repeat: no-repeat;  /* Prevents repeating the image */
+    color: #fff;  /* White text color for better contrast */
     margin: 0;
     padding: 0;
     text-align: center;
