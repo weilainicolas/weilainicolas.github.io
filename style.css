@@ -62,7 +62,9 @@ body::after {
 
 /* Style for images in the stories */
 .story-image {
-    max-width: 50%;  /* Makes the image responsive */
+    /*max-width: 50%;  /* Makes the image responsive */
+    width: 50%;
+    height: 50%;
     height: auto;     /* Keeps the aspect ratio */
     border-radius: 8px;  /* Adds rounded corners */
     margin: 20px 0;   /* Adds space around the image */
