@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fef9ef;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #ffcc99;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.story-list {
+    list-style: none;
+    padding: 0;
+}
+
+.story-list li {
+    margin: 10px 0;
+}
+
+.story-list a {
+    text-decoration: none;
+    color: #007acc;
+    font-weight: bold;
+}
+
+.story-list a:hover {
+    color: #ff6600;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #ffcc99;
+}
